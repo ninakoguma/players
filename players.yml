@@ -1,0 +1,29 @@
+---
+- name: James Brown #name
+  sport: Basketball #sport
+  team:
+    name: Lakers #teamname
+    city: Los Angeles #cityname
+  position: Forward #position
+  age: 41 #number
+- name: Lionel Messi #name
+  sport: Soccer #sport
+  team:
+    name: Inter Miami #teamname
+    city: Miami #cityname
+  position: Forward #position
+  age: 36 #number
+- name: Serena Williams #name
+  sport: Tennis #sport
+  team:
+    name: #null
+    city: #null
+  position: Player #position
+  age: 41 #number
+- name: Tom Brady #name
+  sport: Football #sport
+  team:
+    name: Buccaneers #teamname
+    city: Tampa Bay #cityname
+  position: Quarterback #position
+  age: 46 #number
