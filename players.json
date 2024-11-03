@@ -1,0 +1,43 @@
+[
+    {
+        "name": "James Brown", //string
+        "sport": "Basketball", //object
+        "team": {
+            "name": "Lakers", //object
+            "city": "Los Angeles" //object
+        },
+        "position": "Forward", //object
+        "age": 41 //number
+            
+        },
+    {
+        "name": "Lionel Messi", //string
+        "sport": "Soccer", //object
+        "team": {
+            "name": "Inter Miami", //object
+            "city": "Miami" //object
+        },
+        "position": "Forward", //object
+        "age": 36 //number
+        },
+    {
+        "name": "Serena Williams", //string
+        "sport": "Tennis", //object
+        "team": {
+            "name": null, //null
+            "city": null //null
+        },
+        "position": "Player", //object
+        "age": 41 //number
+        },
+    {
+        "name": "Tom Brady", //string
+        "sport": "Football", //object
+        "team": {
+            "name": "Buccaneers", //object
+            "city": "Tampa Bay" //object
+        },
+        "position": "Quarterback", //object
+        "age": 46 //number
+    }
+]
